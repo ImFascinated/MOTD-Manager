@@ -1,0 +1,6 @@
+name: MOTDManager
+version: 0.1-SNAPSHOT
+main: me.fascinated.motd.MOTD
+author: _Fascinated
+commands:
+  motd:
