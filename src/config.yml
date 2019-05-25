@@ -1,3 +1,4 @@
+NO-PERMISSION: "§cYou don't have permission to run this command!"
 MOTD:
   LINE1: "&a&lMOTD Manager v0.1"
   LINE2: "&fCoded By _Fascinated"

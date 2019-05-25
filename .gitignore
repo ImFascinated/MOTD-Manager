@@ -1,0 +1,18 @@
+
+.idea/.name
+.idea/artifacts/MOTD_Manager_jar.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+MOTD Manager.iml
+.idea/vcs.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/workspace.xml
+out/production/MOTD Manager/me/fascinated/motd/commands/MOTDCommand.class
+out/production/MOTD Manager/plugin.yml
+out/production/MOTD Manager/me/fascinated/motd/MOTD.class
+.idea/MOTD-Manager.iml
+out/production/MOTD Manager/config.yml
+out/production/MOTD Manager/me/fascinated/motd/util/Config.class
+out/production/MOTD Manager/META-INF/MOTD Manager.kotlin_module
+out/production/MOTD Manager/me/fascinated/motd/events/PingServerList.class
